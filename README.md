@@ -3,6 +3,10 @@ I'm currently a full stack developer working primarily on iOS mobile development
 
 I'm currently learning AI with Copilot on github.
 
+My personal websites: 
+- [KrakenMobi LLC](https://www.krakenmobi.com/) is for my Mobile Application LLC
+- [Code-Gorilla](https://www.code-gorilla.com/) is where I share my knowledge
+
 <!--
 **KrakenMobi/KrakenMobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
