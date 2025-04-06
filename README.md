@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm currently a full stack developer working primarily on iOS mobile development and am an Adjunct professor teaching in areas of software development.
+
+I'm currently learning AI with Copilot on github.
 
 <!--
 **KrakenMobi/KrakenMobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
